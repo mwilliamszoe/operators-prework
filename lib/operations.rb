@@ -11,5 +11,3 @@ def not_safe?(speed)
 end
 	
 
-# age < 2 ? "baby" : "not a baby"
-l
